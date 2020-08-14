@@ -1,4 +1,4 @@
-/* MANEJO DINAMICO DE MEMORIA */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
